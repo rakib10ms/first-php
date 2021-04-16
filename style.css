@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-size: 18px;
+}
+form>h2{
+	margin: 2rem;
+	padding: 10px;
+}
+
+form{
+	width: 600px;
+	min-height: 400px;
+	max-width: 600px;
+	background-color: skyblue;
+	margin:200px auto;
+	text-align: center;
+
+}
+form > input,select,button{
+	display: block;
+	margin:1rem 3rem;
+	width: 70%;
+	padding:1rem;
+
+}
+
+.styles{
+	color: brown;
+	padding:1rem;
+	font-size: 24px;
+}
